@@ -5,3 +5,5 @@ In this project,api is created.It mainly focuses on hotel management system.We c
 TOOLS/TECHNOLOGIES USED:Framework-Express,Database-MySQL,node.js
 
 HOW TO RUN:First install express,mysql,nodemon,cors,body-parser,postman.After installing,run in the postman.
+
+NOTE:It is in zip format.So,download and extract and use that.
